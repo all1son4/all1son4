@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Что-то про статистику:
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=all1son4)](https://github.com/anuraghazra/github-readme-stats)
