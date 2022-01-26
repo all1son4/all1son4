@@ -11,15 +11,7 @@
 
 
 ### Мой стек
-+ React
-+ JS
-+ CSS
-+ HTML
-+ Git
-+ Webpack
-+ Figma
-+ MongoDB
-+ Express.js
+React, JS, CSS, HTML, Git, Webpack, Figma, MongoDB, Express.js
 
 <!--
 **all1son4/all1son4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
