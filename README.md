@@ -3,11 +3,16 @@
 
 ### BIO
 
+Начинающий разработчик, сремящийся к чистоте кода, минимализму стиля и синимализации багов. В поиске реальных проектов, которые будут восхищать сначала заказчика, а потом и пользователя. Весьма коммуникабельный, не социопат, работать в команде не страшно :)
 
+Постоянно учусь и совершенствую свои знания, навыки, умения (также могу объяснить в чем разница этих понятий). 
 
 
 ### I'm use
-React <img src="https://img.icons8.com/ultraviolet/32/000000/react--v2.png"/>, JS <img src="https://img.icons8.com/color/32/000000/javascript--v2.png"/>, CSS <img src="https://img.icons8.com/color/32/000000/css3.png"/>, HTML <img src="https://img.icons8.com/color/32/000000/html-5--v1.png"/>, little bit  Node.js <img src="https://img.icons8.com/fluency/32/000000/node-js.png"/> API <img src="https://img.icons8.com/external-ddara-fill-ddara/32/ffffff/external-api-fintech-ddara-fill-ddara.png"/>
+React <img src="https://img.icons8.com/ultraviolet/32/000000/react--v2.png"/>, JS <img src="https://img.icons8.com/color/32/000000/javascript--v2.png"/>, CSS <img src="https://img.icons8.com/color/32/000000/css3.png"/>, HTML <img src="https://img.icons8.com/color/32/000000/html-5--v1.png"/>, little bit  Node.js <img src="https://img.icons8.com/fluency/32/000000/node-js.png"/> and API <img src="https://img.icons8.com/external-ddara-fill-ddara/32/ffffff/external-api-fintech-ddara-fill-ddara.png"/>.
+
+#### Also use
+Express.js, Git <img src="https://img.icons8.com/color/32/000000/git.png"/>, Webpack <img src="https://img.icons8.com/color/32/000000/webpack.png"/>, Babel <img src="https://img.icons8.com/dusk/32/000000/babel.png"/> Figma <img src="https://img.icons8.com/color/32/000000/figma--v1.png"/>
 
 <!--
 **all1son4/all1son4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
