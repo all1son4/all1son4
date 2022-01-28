@@ -1,4 +1,4 @@
-## Hello there... not General Kenobi <img src="https://img.icons8.com/windows/32/4a90e2/jedi.png"/>, but Web-Developer <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/32/000000/external-web-online-learning-kiranshastry-gradient-kiranshastry.png"/>
+## Hello there... not General Kenobi <img src="https://img.icons8.com/windows/32/4a90e2/jedi.png"/>, but Web-Developer <img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/32/4a90e2/external-web-online-learning-kiranshastry-lineal-kiranshastry.png"/>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### BIO
