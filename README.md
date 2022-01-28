@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### Smthg about stats:
 
-[![All1son4's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=all1son4)](https://github.com/anuraghazra/github-readme-stats)  
+[![ Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=all1son4)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all1son4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=all1son4)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=all1son4)](https://github.com/anuraghazra/github-readme-stats)
